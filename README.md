@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs; express; React; ThreeJS;**
 
-- 👨‍💻 All of my projects are available at [https://thsx.pl/](https://thsx.pl/)
+- 👨‍💻 Some of my projects are available at [https://thsx.pl/](https://thsx.pl/)
 
 - 📫 How to reach me **thelolos3031@gmail.com**
 
