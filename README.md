@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TheLoloS</h1>
 <h3 align="center">A passionate Fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on **THS_Repair**
+- 🔭 I’m currently working on **thls.pl**
 
 - 🌱 I’m currently learning **React three fiber, NextJs Scss Redux**
 
