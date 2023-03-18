@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **THS_Repair**
 
-- 🌱 I’m currently learning **Nodejs; express; React; ThreeJS;**
+- 🌱 I’m currently learning **React three fiber, NextJs Scss Redux**
 
 - 👨‍💻 Some of my projects are available at [https://thls.pl/](https://thls.pl/)
 
