@@ -13,11 +13,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- **Frontend:** HTML, CSS3, JavaScript, ReactJS, Tailwind CSS, Three.js, React Three Fiber, Farmer Motion, Framer Motion 3D, Astro, Gsap
+- **Frontend:** HTML, CSS3, JavaScript ❤, ReactJS, Tailwind CSS, Three.js, React Three Fiber, Farmer Motion, Framer Motion 3D, Astro, Gsap
  
-- **Backend:** Node.js, Express, PHP, Astro, Next.js 13,Socket.io, Vite, Electron, php.
+- **Backend:** Node.js, Express, PHP, Astro, Next.js 13, Socket.io, WebSocket, Vite, CRA, Electron, php.
 
-- **Database:** SQL, MongoDB, Prisma, planet,scale
+- **Database:** SQL, MongoDB, Prisma
+
+- **Graphic:** Adobe ilustrator, Adobe Photoshop, Blender, Magica Voxel
 
 - **AI:** ChatGPT, Jasper AI, Midjourney, Copilot
 
@@ -28,6 +30,12 @@
 - **Repository & workflow:** Git, GitHub, Jira (scrum, kanban)
 
 - **Library UI:** Chakra, Flowbite, Daisyui, Mantine, Materiał UI
+
+- **Systems:**  Windows(7,8.1,10,11), Linux(Ubuntu, Kali)
+
+- **IDE:** Visual Studio Code
+
+- **Language:** Polish(Native) English(B2)
 
 
 
