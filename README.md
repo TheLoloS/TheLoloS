@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <pre>
-<p><b>Frontend:<b/>HTML, CSS3, JavaScript, ReactJS, Tailwind CSS, Three.js, React Three Fiber, Farmer Motion, Framer Motion 3D, Astro, Gsap</p>
+<b>Frontend:<b/>HTML, CSS3, JavaScript, ReactJS, Tailwind CSS, Three.js, React Three Fiber, Farmer Motion, Framer Motion 3D, Astro, Gsap
  
 
 Backend: Node.js, Express, PHP, Astro, Next.js 13,Socket.io, Vite, Electron, php.
