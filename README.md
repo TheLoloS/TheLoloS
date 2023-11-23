@@ -17,17 +17,17 @@
  
 - **Backend:** Node.js, Express, PHP, Astro, Next.js 13,Socket.io, Vite, Electron, php.
 
-- **Bazy danych:** SQL, MongoDB, Prisma, planet,scale
+- **Database:** SQL, MongoDB, Prisma, planet,scale
 
-- **Sztuczna Inteligencja:** ChatGPT, Jasper AI, Midjourney, Copilot
+- **AI:** ChatGPT, Jasper AI, Midjourney, Copilot
 
-- **Testowanie:** K6, Testy JS, Unlighthouse
+- **Test:** K6, Testy JS, Unlighthouse, Cypress
 
-- **SEO:** pagespeed.web.dev,  Screaming Frog, debugbear, Unlighthouse
+- **SEO:** pagespeed.web.dev, Screaming Frog, debugbear, Unlighthouse
 
-- **Repozytoria i Postępy:** Git, GitHub, Jira (scrum, kanban)
+- **Repository & workflow:** Git, GitHub, Jira (scrum, kanban)
 
-- **Biblioteki UI:** Chakra, Flowbite, Daisyui, Mantine, Materiał UI
+- **Library UI:** Chakra, Flowbite, Daisyui, Mantine, Materiał UI
 
 
 
