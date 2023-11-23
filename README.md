@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I have been learning to write websites since I was a child, and JS continues to surprise me**
 
 <h3 align="left">Connect with me:</h3>
-<p><strong>Frontend:<strong/>HTML, CSS3, JavaScript, ReactJS, Tailwind CSS, Three.js, React Three Fiber, Farmer Motion, Framer Motion 3D, Astro, Gsap</p>
+<p><b>Frontend:<b/>HTML, CSS3, JavaScript, ReactJS, Tailwind CSS, Three.js, React Three Fiber, Farmer Motion, Framer Motion 3D, Astro, Gsap</p>
  
 
 Backend: Node.js, Express, PHP, Astro, Next.js 13,Socket.io, Vite, Electron, php.
