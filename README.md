@@ -13,9 +13,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- **Frontend:** HTML, CSS3, JavaScript ❤, ReactJS, Tailwind CSS, Three.js, React Three Fiber, Farmer Motion, Framer Motion 3D, Astro, Gsap
+- **Frontend:** HTML5, CSS3, JavaScript ❤, TypeScript, ReactJS, Tailwind CSS, Three.js, React Three Fiber, Farmer Motion, Framer Motion 3D, Astro, Gsap
  
-- **Backend:** Node.js, Express, PHP, Astro, Next.js 13, Socket.io, WebSocket, Vite, CRA, Electron, php.
+- **Backend:** Node.js, Express, PHP, Astro, Next.js 13, Socket.io, WebSocket, Vite, CRA, Electron, php
 
 - **Database:** SQL, MongoDB, Prisma
 
